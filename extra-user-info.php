@@ -29,4 +29,4 @@ $test = new ExtraUserInfo(array(
     )
 );
 
- ?>
+?>

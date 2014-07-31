@@ -1,4 +1,3 @@
-
 <?php
 
 /*
@@ -37,4 +36,3 @@ class HeadlineExtraUserInfo {
 }
 
 ?>
-
